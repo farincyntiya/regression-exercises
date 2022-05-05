@@ -1,2 +1,3 @@
-# regression-exercises
-Regression practices using python.
+## Regression Practices
+
+This is the place where I store all the datasets, codes, and other files used and produced in the process of understanding regression algorithms.
